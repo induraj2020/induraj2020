@@ -1,5 +1,5 @@
 ![Profile views](https://gpvc.arturio.dev/induraj2020) 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>   
+   
 ### Hi there 👋, My name is Induraj. 
 #### I am a Data Scientist with 1 year experience, former instructor and blogger.
 I am passionate about Data Science. I love to work alongside a team enthusiastic about adopting new technology. Being creative, proactive, collaborative with innovation focused mindset, I feel proud to take ownership of the features I develop from their conception to their implementation in the product.
@@ -14,7 +14,7 @@ I am passionate about Data Science. I love to work alongside a team enthusiastic
 - 🌱 **Weakness:** Financial literacy, craze for movie & coffee
 
 
-- 💬 **Curriculum Vitae:**<a id="raw-url" href="https://raw.githubusercontent.com/github-username/project/master/filename">Download CV</a>
+- 💬 **Curriculum Vitae:**<a id="raw-url" href="https://github.com/induraj2020/induraj2020/blob/main/Induraj_Ramamurthy_CV.pdf">**Download CV**</a>
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/induraj2020)   -->
 
 
