@@ -3,7 +3,6 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!-- https://www.youtube.com/watch?v=KhGWbt1dAKQ&t=356s -->
 <!-- https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
-   
 ### Hi there 👋, My name is Induraj. 
 #### Senior Data Scientist & AI Engineer with 6 year experience, former instructor and blogger.
 I am a creative problem solver who enjoys designing & developing end-to-end AI solutions. Specializing in LLM orchestration (RAG, multi-agent systems) and high-performance Computer Vision and with a strong mix of cloud experience and software engineering skills, I architect and scale robust, human-centered AI solutions.  I love to work alongside a team enthusiastic about adopting new technology. Being creative, proactive, collaborative with innovation focused mindset, I feel proud to take ownership of the features I develop from their conception to their implementation in the product.
