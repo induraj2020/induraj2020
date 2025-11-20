@@ -3,8 +3,6 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!-- https://www.youtube.com/watch?v=KhGWbt1dAKQ&t=356s -->
 <!-- https://arturssmirnovs.github.io/github-profile-readme-generator/ -->
-
-![Profile views](https://gpvc.arturio.dev/induraj2020) 
    
 ### Hi there 👋, My name is Induraj. 
 #### Senior Data Scientist & AI Engineer with 6 year experience, former instructor and blogger.
