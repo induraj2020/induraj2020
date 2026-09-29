@@ -14,7 +14,7 @@ I am a creative problem solver who enjoys designing & developing end-to-end AI s
 <!-- -
 - 💬 **Curriculum Vitae:**<a id="raw-url" href="https://github.com/induraj2020/induraj2020/blob/main/Induraj_Ramamurthy_CV.pdf">**Download CV**</a>
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/induraj2020)   -->
- -->
+ 
 ##
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=induraj2020&show_icons=true) | ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=induraj2020&show_icons=true)  
