@@ -25,6 +25,3 @@ I am a creative problem solver who enjoys designing & developing end-to-end AI s
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=induraj2020&show_icons=true)
 
-<!-- - ![GitHub stats](https://github-readme-stats.vercel.app/api?username=induraj2020&show_icons=true) | ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=induraj2020&show_icons=true)   --> 
------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------
-
