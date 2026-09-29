@@ -11,8 +11,8 @@ I am a creative problem solver who enjoys designing & developing end-to-end AI s
 - 📫 **Reach me at:** induraj2020@gmail.com 
 - 📫 **Blogs at:** https://induraj2020.medium.com/
 - 🌱 **Skills:** Python, LangChain, OpenAI, n8n, CrewAI, AutoGen, RAG, TensorFlow, Keras, PyTorch, CUDA, OpenCV, NLP, YOLO, Bedrock, SageMaker, Azure ML, Scikit-learn, Statistics, MongoDB, Milvus, Pinecone, Weavite, Qdrant, PostgreSQL.
-<!-- -
-- 💬 **Curriculum Vitae:**<a id="raw-url" href="https://github.com/induraj2020/induraj2020/blob/main/Induraj_Ramamurthy_CV.pdf">**Download CV**</a>
+
+<!-- -- 💬 **Curriculum Vitae:**<a id="raw-url" href="https://github.com/induraj2020/induraj2020/blob/main/Induraj_Ramamurthy_CV.pdf">**Download CV**</a> -->
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/induraj2020)   -->
  
 ##
