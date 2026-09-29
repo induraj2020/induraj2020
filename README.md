@@ -16,7 +16,15 @@ I am a creative problem solver who enjoys designing & developing end-to-end AI s
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/induraj2020)   -->
  
 ##
+##
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=induraj2020&show_icons=true) | ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=induraj2020&show_icons=true)  
+<!-- Broken (public github-readme-stats instance is rate limited). Restore later if fixed:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=induraj2020&show_icons=true) | ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=induraj2020&show_icons=true)
+------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------
+-->
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=induraj2020&show_icons=true)
+
+<!-- - ![GitHub stats](https://github-readme-stats.vercel.app/api?username=induraj2020&show_icons=true) | ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=induraj2020&show_icons=true)   --> 
 ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------
 
